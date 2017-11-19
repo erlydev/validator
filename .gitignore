@@ -1,0 +1,13 @@
+# Erlang
+ebin/*.beam
+_rel/
+
+# erlang.mk
+.erlang.mk/
+
+# IDEA
+.idea/
+validator.iml
+
+# Vim
+*.sw[op]
